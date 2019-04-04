@@ -7,7 +7,7 @@
 
 # Site settings
 title: 王烧造的学习博客
-brief-intro: Android and Python Coder
+brief-intro: java 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://WangShaoZao.github.io" # the base hostname & protocol for your site
 
@@ -16,11 +16,11 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
-github_username:  643435675
-email: 643435675@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
+github_username:  ShaoZaoWang
+email: 997837397@QQ.com
+weibo_username: ShaoZaoWang
+zhihu_username: 王烧造
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 来自王烧造的学习博客！
